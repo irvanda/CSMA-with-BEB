@@ -1,7 +1,7 @@
 # CSMA-with-BEB
 Simulation of CSMA/CA with BEB (Binary Exponential Backoff) algorithm. 
 
-# assignment 1:**
+# assignment 1:
 
 **Assignment:**
 When there are multi users in a BSS (one AP and multiple UEs), simulate the throughput performance for uplink random access transmission by using C simulator implemented for yourself.
